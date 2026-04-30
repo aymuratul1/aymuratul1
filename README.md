@@ -14,7 +14,7 @@
 ### About Me
 
 - From Chimbay
-- @_xamidullaev.a_
+- @_xamidullaev._
 - Love building scalable systems
 - Open source enthusiast
 

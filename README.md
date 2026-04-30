@@ -13,8 +13,8 @@
 
 ### About Me
 
-- From Qaraqalpaqistan
-- Backend & DevOps Engineer
+- From Chimbay
+- @_xamidullaev.a_
 - Love building scalable systems
 - Open source enthusiast
 
